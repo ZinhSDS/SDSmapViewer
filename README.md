@@ -12,6 +12,8 @@ This tool is designed specifically for map creators and community members to ins
 * **Zero Setup:** Compiled as a single, standalone executable—no Python runtime or environment configurations required.
 * **Technical Metrics Display:** Real-time HUD tracking total objects, visible counts, active cache size, and file weight.
 
+**Note:** While it can load most of the map files, certain or some map files may throw "Out of memory" error
+
 ---
 
 ##  Getting Started
