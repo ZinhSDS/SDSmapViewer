@@ -35,4 +35,6 @@ If you prefer to run or modify the raw source code (`.py`) instead of using the 
 
 ##  License
 
-This project is open-source and available under the **MIT License**. Feel free to explore the code, modify it, or use snippets for your own community tools!
+This project is open-source and available under the GNU General Public License v3.0 (GPL-3.0). Feel free to explore the code, modify it, or use snippets for your own community tools!
+
+**Please note that under the GPL-3.0, if you modify this software or use its code in your own projects, your derivative works must also be shared openly under the same GPL-3.0 license.**
